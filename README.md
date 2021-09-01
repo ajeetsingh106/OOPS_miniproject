@@ -3,7 +3,7 @@
 
 ## Introduction:
 
-   ATM Machine simulation project is written in c++ . The project file contains main.cpp file. By using this project user can easily make transaction like deposit and withdraw money using his/her account , there is a feature through which user can change his/her pin i.e personal identification number.
+   ATM Machine simulation project is written in c++ . The project file contains main.cpp file. ATM Simulator System is based on a concept of managing cash transactions of a personal account. Before stepping into the dashboard a user has to pass through a login/pin system to get access, then the user can manage amount activities such as withdrawal, deposits, balance inquiry, and fund transfers. There’s a quick cash feature from the withdrawal option. This ATM Simulator has exact the same features as that of real ATM.
 
 ## Readme File Structure:
 * Workflow
