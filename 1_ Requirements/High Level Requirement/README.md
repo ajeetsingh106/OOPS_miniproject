@@ -1,5 +1,5 @@
 ID |  Description                 | Status  |  
 -------|------------------------|------|
-HL1 | ACCOUNT       |Implemented   |
-HL2 | CHECKING       |Implemented   |
-HL3 | SAVINGS    |Implemented   |
+HL1 | Account       |Implemented   |
+HL2 | Checking       |Implemented   |
+HL3 | Savings   |Implemented   |
