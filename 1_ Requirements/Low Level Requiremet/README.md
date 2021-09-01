@@ -1,6 +1,6 @@
 ID |  Description                 | Status  |  
 -------|------------------------|------|
-HL1_L1 | Account type  |Implemented   |
+HL1_L1 | Account Type  |Implemented   |
 HL1_L2 | Account Number       |Implemented   |
 HL1_l3 | Pin Number       |Implemented   |
 HL2_L1 | Balance Check    |Implemented   |
