@@ -28,9 +28,9 @@
 | 6_Image&Videos | This folder contains all images and videos. |
 | 7_Daily_Stand_Up | This folder contains Daily meetings reports. |
 
-## Contributors List and Summery:
+## Contributors List and Summary:
 | PS_no.   |  Contribution | Issues_raised | Issues_closed |
-|----------|---------------|---------------|---------------|---------------|
+|----------|---------------|---------------|---------------|
 | 99005768 |               |               |               |
 | 99005775 |               |               |               |
 | 99005796 |               |               |               |
