@@ -29,10 +29,13 @@
 | 7_Daily_Stand_Up | This folder contains Daily meetings reports. |
 
 ## Contributors List and Summery:
-| PS_no. | Contribution | Issues_raised | Issues_closed |
-|--------|--------------|---------------|---------------|
-
-
+| PS_no. |    Name                   | Contribution | Issues_raised | Issues_closed |
+|--------|---------------------------|--------------|---------------|---------------|
+| 99005768 |  Samiksha Doble         |              |               |               |
+| 99005775 |  Andhavarapu Dilip Kumar|              |               |               |
+| 99005796 |  Kolla Narasimha        |              |               |               |
+| 99005818 |  Pratiksha Rasekar      |              |               |               |
+| 99005851 |  Somesh Kumar           |              |               |               |
 
 
 
