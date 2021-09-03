@@ -12,5 +12,5 @@ public:
 	void setWithdraw();
 	void setDeposit();
 	double getTransfer();
-
+ 
 };
