@@ -27,7 +27,7 @@ int mainMenu() { //function for main menu interface
 	cin >> choice;
 	return choice;
 }
-
+ 
 int main()
 {
 	//class-objects instantiation
@@ -182,4 +182,4 @@ int main()
 	system("pause");
 	return 0;
 
-}
+}   
