@@ -19,4 +19,4 @@ class Account
 		void setAccountNumber(int accno);
 		bool login();
 	
-};
+}; 
