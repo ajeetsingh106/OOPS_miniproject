@@ -29,12 +29,12 @@
 | 7_Daily_Stand_Up | This folder contains Daily meetings reports. |
 
 ## Contributors List and Summery:
-| sr_no. | Full_Name | Contribution | Issues_raised | Issues_closed |
-|--------|-----------|--------------|---------------|---------------|
+| PS_no. | Contribution | Issues_raised | Issues_closed |
+|--------|--------------|---------------|---------------|
 
-## Challenges Faced:
-| Sr_no. |  Challenges | Measures taken to remove |
-|--------|-------------|--------------------------|
+
+
+
 
 
 
