@@ -8,7 +8,8 @@
 
 ## Badges Earned
 | Build | Code Quality | [Git Inspector](using github.io option) | Codacy | 
-|--------|---------|-------|----------|
+|-------|--------------|-----------------------------------------|--------|
+[![Code Quality - Static Code - Cppcheck](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml)|
 
 ## Folder Structure:
 | Sr_no. | Explanation |
