@@ -15,6 +15,7 @@
 | H-09 | User should be able to exit | Implemented |
 
 
+
 ## Table No. Low level test plan
 
 | Test ID | Description | HLT ID | Status |
@@ -24,5 +25,6 @@
 | L-03 | User should be able to withdraw amount to his current balance | H-6 | Implemented |
 | L-04 | The amount to be withdraw shall not exceed balance | H-6 | Implemented |
 | L-05 | User should be able to add an amount to his current balance | H-7 | Implemented |
+
 
 
