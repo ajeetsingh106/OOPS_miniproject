@@ -18,7 +18,7 @@ int mainMenu() { //function for main menu interface
 	cout << "| 2. Withdraw               |" << endl;
 	cout << "| 3. Check Balance          |" << endl;
 	cout << "| 4. Transfer Money         |" << endl;
-	cout << "| 5. [Exit]                 |" << endl;
+	cout << "| 5. Exit                   |" << endl;
 	cout << "-----------------------------" << endl;
 
 	cin >> choice;
