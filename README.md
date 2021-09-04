@@ -7,8 +7,8 @@
 
 
 ## Badges Earned
-| Build | Code Quality | Unity | [Git Inspector](using github.io option) | Code Coverage | 
-|--------|---------|-------|----------|----------|
+| Build | Code Quality | [Git Inspector](using github.io option) | Codacy | 
+|--------|---------|-------|----------|
 
 ## Folder Structure:
 | Sr_no. | Explanation |
