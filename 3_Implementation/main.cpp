@@ -1,14 +1,3 @@
-///////////////////////////////////     Automated Teller Machine     ///////////////////////////////////  
-/*
-COSC 3304
-Moiz Ahmed
-
-TEAM MEMBERS:
-Brian Ruiz
-Kaleab Teka
-Sebastian Maya
-*/
-
 #include <iostream>
 #include <string>
 #include "account.h"
@@ -45,7 +34,7 @@ int main()
 
 	//accObj.login(); //call for login page
 
-	accObj.setAccountName("John", "Smith"); // Or whatever predefined name
+	accObj.setAccountName("Account", "User"); // Or whatever predefined name
 	string fullName = accObj.getAccountName();
 
 	cout << "-----------------------------" << endl;
