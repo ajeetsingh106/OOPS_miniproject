@@ -6,10 +6,9 @@
    ATM Machine simulation project is written in c++ . The project file contains main.cpp file. ATM Simulator System is based on a concept of managing cash transactions of a personal account. Before stepping into the dashboard a user has to pass through a login/pin system to get access, then the user can manage amount activities such as withdrawal, deposits, balance inquiry, and fund transfers. There’s a quick cash feature from the withdrawal option. This ATM Simulator has exact the same features as that of real ATM.
 
 
-## Workflow:
-| Build | Git Inspector | Code Quality | Code Coverage|
-|-------|---------------|--------------|--------------|
-|       |               |              |              |
+## Badges Earned
+| Build | Code Quality | Unity | [Git Inspector](using github.io option) | Code Coverage | 
+|--------|---------|-------|----------|----------|
 
 ## Folder Structure:
 | Sr_no. | Explanation |
