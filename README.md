@@ -7,10 +7,10 @@
 
 
 ## Badges Earned
-| Build | Code Quality | [Git Inspector](using github.io option) | Codacy | 
-|-------|--------------|-----------------------------------------|--------|
+| Build | Code Quality Static | [Git Inspector] | Codacy | 
+|-------|---------------------|-----------------|--------|
 
-[![Code Quality - Static Code - Cppcheck](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml) |
+|[![Code Quality - Static Code - Cppcheck](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml)|
 
 ## Folder Structure:
 | Sr_no. | Explanation |
@@ -24,14 +24,14 @@
 | 7_Daily_Stand_Up | This folder contains Daily meetings reports. |
 
 
-## Contributors List and Summary:
-| PS_no.   |    Name           | Issues_raised | Issues_closed |
-|----------|-------------------|---------------|---------------|
-| 99005768 | Samiksha Dhoble   |               |               |
-| 99005775 | A. Dilip Kumar    |               |               |
-| 99005796 | K. Narasimha      |               |               |
-| 99005818 | Pratiksha Rasekar |               |               |
-| 99005851 | Somesh Kumar      |               |               |
+## Contributors List
+| PS_no.   |    Name           | 
+|----------|-------------------|
+| 99005768 | Samiksha Dhoble   |       
+| 99005775 | A. Dilip Kumar    |            
+| 99005796 | K. Narasimha      |              
+| 99005818 | Pratiksha Rasekar |               
+| 99005851 | Somesh Kumar      |            
 
 
 
