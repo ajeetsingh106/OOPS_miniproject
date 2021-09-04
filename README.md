@@ -29,13 +29,13 @@
 | 7_Daily_Stand_Up | This folder contains Daily meetings reports. |
 
 ## Contributors List and Summary:
-| PS_no.   |  Contribution | Issues_raised | Issues_closed |
-|----------|---------------|---------------|---------------|
-| 99005768 |               |               |               |
-| 99005775 |               |               |               |
-| 99005796 |               |               |               |
-| 99005818 |               |               |               |
-| 99005851 |               |               |               |
+| PS_no.   |    Name           | Issues_raised | Issues_closed |
+|----------|-------------------|---------------|---------------|
+| 99005768 | Samiksha Dhoble   |               |               |
+| 99005775 | A. Dilip Kumar    |               |               |
+| 99005796 | K. Narasimha      |               |               |
+| 99005818 | Pratiksha Rasekar |               |               |
+| 99005851 | Somesh Kumar      |               |               |
 
 
 
