@@ -41,4 +41,3 @@ This project is implemented to do the transactions by entering the account numbe
 ## SWOT Analysis
 ![SWOT](https://user-images.githubusercontent.com/86521331/131613653-b92d10f8-e2ab-472c-acda-d273623bfa22.jpg)
 
-
