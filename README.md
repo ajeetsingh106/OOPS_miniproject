@@ -25,8 +25,8 @@
 
 
 ## Contributors List
-| PS_no.   |    Name           | 
-|----------|-------------------|
+| PS_no.   |    Name           | Contribution |
+|----------|-------------------|--------------|
 | 99005768 | Samiksha Dhoble   |       
 | 99005775 | A. Dilip Kumar    |            
 | 99005796 | K. Narasimha      |              
