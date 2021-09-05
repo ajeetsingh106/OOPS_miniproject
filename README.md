@@ -10,6 +10,7 @@
 | Build | Code Quality Static | [Git Inspector] | Codacy | 
 |-------|---------------------|-----------------|--------|
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ece81ccf29f48829e1e5a4d9ce11fe5)](https://app.codacy.com/gh/samikshadhoble/OOPS_miniproject?utm_source=github.com&utm_medium=referral&utm_content=samikshadhoble/OOPS_miniproject&utm_campaign=Badge_Grade_Settings)
 |[![Code Quality - Static Code - Cppcheck](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml)|
 
 ## Folder Structure:
