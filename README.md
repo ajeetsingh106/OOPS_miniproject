@@ -35,7 +35,7 @@
 | 99005775 | A. Dilip Kumar               | Worked on implementation part making inc, src, main, makefile and also captured the Images and Videos |      
 | 99005796 | K. Narasimha                 |              
 | 99005818 | Pratiksha Rasekar            |               
-| 99005851 | Somesh Kumar                 |            
+| 99005851 | Somesh Kumar                 | Worked on Designing part i.e UML and High level designing.        
 
 
 
