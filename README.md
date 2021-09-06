@@ -31,11 +31,11 @@
 ## Contributors List
 | PS_no.   |    Name                      | Contribution                                          |
 |----------|------------------------------|-------------------------------------------------------|
-| 99005768 | Samiksha Dhoble              | Created Overview of the project, Worked on low level design,high level and low level test plan and generated badges|    
-| 99005775 | A. Dilip Kumar               | Worked on implementation part making inc, src, main, makefile and also captured the Images and Videos |      
-| 99005796 | K. Narasimha                 |              
-| 99005818 | Pratiksha Rasekar            |               
-| 99005851 | Somesh Kumar                 | Worked on Structure and Designing part i.e UML and High level designing.        
+| 99005768 | Samiksha Dhoble              | Created Overview of the project, Worked on low level design,high level and low level test plan |    
+| 99005775 | A. Dilip Kumar               | Worked on implementation part i.e., inc, src, main, makefile and also captured the Images and Videos |      
+| 99005796 | K. Narasimha                 | Worked on Requirements and test file |            
+| 99005818 | Pratiksha Rasekar            | Worked on report and workflows |             
+| 99005851 | Somesh Kumar                 | Worked on Structure and Designing part i.e UML and High level designing |        
 
 
 
