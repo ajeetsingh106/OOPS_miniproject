@@ -10,9 +10,9 @@
 | Build | Code Quality Static | [Git Inspector] | Codacy | 
 |-------|---------------------|-----------------|--------|
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ece81ccf29f48829e1e5a4d9ce11fe5)](https://app.codacy.com/gh/samikshadhoble/OOPS_miniproject?utm_source=github.com&utm_medium=referral&utm_content=samikshadhoble/OOPS_miniproject&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ece81ccf29f48829e1e5a4d9ce11fe5)](https://app.codacy.com/gh/samikshadhoble/OOPS_miniproject?utm_source=github.com&utm_medium=referral&utm_content=samikshadhoble/OOPS_miniproject&utm_campaign=Badge_Grade_Settings)  [![Code Quality - Static Code - Cppcheck](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml)
 
-[![Code Quality - Static Code - Cppcheck](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/samikshadhoble/OOPS_miniproject/actions/workflows/cppcheck.yml)|<a href="https://frontend.code-inspector.com/public/user/github/samikshadhoble">
+<a href="https://frontend.code-inspector.com/public/user/github/samikshadhoble">
    <img src="https://code-inspector.com/public/badge/user/github/samikshadhoble?style=light" alt="code inspector badge" />
 </a>
 
@@ -29,13 +29,13 @@
 
 
 ## Contributors List
-| PS_no.   |    Name               | Contribution                                          |
-|----------|-----------------------|-------------------------------------------------------|
-| 99005768 | Samiksha Dhoble       | Created Overview of the project, Worked on low level design,high level and low level test plan and generated badges|    
-| 99005775 | A. Dilip Kumar        | Worked on coding part making inc, src, main, makefile and also captured the Images and Videos |      
-| 99005796 | K. Narasimha          |              
-| 99005818 | Pratiksha Rasekar     |               
-| 99005851 | Somesh Kumar          |            
+| PS_no.   |    Name                      | Contribution                                          |
+|----------|------------------------------|-------------------------------------------------------|
+| 99005768 | Samiksha Dhoble              | Created Overview of the project, Worked on low level design,high level and low level test plan and generated badges|    
+| 99005775 | A. Dilip Kumar               | Worked on coding part making inc, src, main, makefile and also captured the Images and Videos |      
+| 99005796 | K. Narasimha                 |              
+| 99005818 | Pratiksha Rasekar            |               
+| 99005851 | Somesh Kumar                 |            
 
 
 
